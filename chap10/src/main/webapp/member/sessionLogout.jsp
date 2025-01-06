@@ -1,11 +1,17 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 pageEncoding="UTF-8"%>
-<!DOCTYPE html>
+<%
+	session.invalidate();
+	// session.removeAttribute("MEMBERID");
+%>
+
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>로그아웃</title>
 </head>
 <body>
+로그아웃하였습니다.
+
 </body>
 </html>
