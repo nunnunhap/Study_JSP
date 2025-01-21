@@ -14,7 +14,7 @@ pageEncoding="UTF-8"%>
 <body>
 
 MEMBER 테이블의 내용
-<table width="100%" border="1">
+<table width="100%" border="1">r
 	<tr>
 		<td>이름</td>
 		<td>아이디</td>
